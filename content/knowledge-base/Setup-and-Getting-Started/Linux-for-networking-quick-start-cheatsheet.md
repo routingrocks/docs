@@ -4,7 +4,8 @@ author: NVIDIA
 weight: 20
 toc: 4
 ---
-Using Linux for networking completely unifies the network stack. The switch from traditional networking operating systems is easy and can be done with existing skill sets.</br> This handy cheat sheet is a quick reference as you learn and use NVIDIA® Cumulus® Linux. It features the most common native Linux, as well as Cumulus NVUE, commands with explanations on how to use them.
+Using Linux for networking completely unifies the network stack. The switch from traditional networking operating systems is easy and can be done with existing skill sets.</br> This handy cheat sheet is a quick reference as you learn and use NVIDIA® Cumulus® Linux. It features the most common native Linux, as well as Cumulus NVUE commands with explanations on how to use them.
+
 
 ## Common Linux Commands
 
