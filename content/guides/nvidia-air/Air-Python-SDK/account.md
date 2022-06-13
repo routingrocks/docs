@@ -16,7 +16,7 @@ Syncs the account with all values returned by the API
 
 High-level interface for the Account API
 
-<a name="air_sdk.account.AccountApi.get"></a>
+
 ### get
 
 Get an existing account
@@ -30,7 +30,7 @@ Get an existing account
 
 **Returns**:
 
-  [`Account`](/docs/account)
+  [`Account`](#account)
   
 
 **Raises**:
